@@ -1,6 +1,8 @@
 # docker-tutorial
 
-Aprenda a configurar ambientes de desenvolvimento portáties e isolados. Post completo publicado em http://rodrigobrito.net/ambientes-docker/
+Containers Docker podem ser utilizados para encapsular suas dependências, evitar conflitos de versão e criar ambientes de desenvolvimento portáveis, alinhando o ambiente de produção com o ambiente de desenvolvimento. 
+
+Post publicado em http://rodrigobrito.net/ambientes-docker/
 
 ### Exemplos apresentados
 - React JS + Nginx
